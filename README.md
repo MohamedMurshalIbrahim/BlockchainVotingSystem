@@ -17,21 +17,13 @@
 - FastAPI
 - MySQL Database (port – 3306)
 
-## Screenshots
-
-![Login Page](https://github.com/MohamedMurshalIbrahim/BlockchainVotingSystem/blob/main/public/login%20ss.png)
-
-![Admin Page](https://github.com/MohamedMurshalIbrahim/BlockchainVotingSystem/blob/main/public/admin%20ss.png)
-
-![Voter Page](https://github.com/MohamedMurshalIbrahim/BlockchainVotingSystem/blob/main/public/index%20ss.png)
-
 ## Installation
 
 1. Open a terminal.
 
 2. Clone the repository by using the command
         
-        git clone https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain.git
+        git clone https://github.com/MohamedMurshalIbrahim/BlockchainVotingSystem.git
 
 3. Download and install [Ganache](https://trufflesuite.com/ganache/).
 
@@ -150,9 +142,6 @@ You're all set! The Voting app should be up and running now at http://localhost:
         ├── README.md                     # Project documentation.
         └── truffle-config.js                    # Truffle configuration file.
 
-## License
-
-The code in this repository is licensed under the MIT License. This means that you are free to use, modify, and distribute the code, as long as you include the original copyright and license notice. For more information about LICENSE please click [here](https://github.com/MohamedMurshalIbrahim/BlockchainVotingSystem/blob/main/LICENSE).
 
 ## If you like this project, please give it a 🌟.
 ## Thank you 😊.
